@@ -1,0 +1,2 @@
+def test_22():
+    assert 1==2
